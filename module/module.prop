@@ -1,0 +1,7 @@
+id=crossdevice_unlock
+name=Cross-Device Services unlock
+version=v0.0
+versionCode=0
+author=deang
+description=Unlocks Google's Cross-Device Services (notification sync, App Cast, Quick Access, task handoff) on devices Google doesn't enable them for, such as Samsung tablets, by setting Play services' own flags. Keeps them set after Play services syncs. Touches app data only, nothing on /system.
+updateJson=https://raw.githubusercontent.com/Nessuno6/CrossDeviceUnlock/main/update.json

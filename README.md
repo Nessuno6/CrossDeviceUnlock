@@ -67,3 +67,7 @@ ignores entries appended at the end.
 CLASSPATH=flagtool.dex app_process /system/bin dev.deang.flagtool.Main FILE ARG...
   NAME | NAME=true | NAME=false | NAME=123 | -NAME
 ```
+
+## License
+
+[MIT](LICENSE).
